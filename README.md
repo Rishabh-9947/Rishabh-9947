@@ -1,29 +1,62 @@
-# Hi, I'm Rishabh Sharma! 👋
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Rishabh-9947/Rishabh-9947/main/banner.gif" width="900" height="200"/>
+</div>
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in data analysis and Python programming. Here, you'll find projects that showcase my skills and my journey in the world of coding.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi👋+I'm+Rishabh+Sharma!;Welcome+to+my+GitHub+Profile🌅" alt="Typing SVG" />
+</h1>
+<h4 align="center">🚀 A Python Developer | Web Developer | Novice Data Analyst and Predictive Model Developer 🚀</h4> 
+<hr>
 
-## 📊 Featured Data Analysis Projects
-Here are some of the data analysis projects I've worked on. These projects demonstrate my ability to extract insights and make data-driven decisions.
+<div align="center">
+<h2 align="center">📊 My GitHub Stats 📊</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-9947&theme=synthwave&show_icons=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh-9947&theme=synthwave&layout=compact" height="150" alt="languages graph"  />
+</div>
+<hr>
 
-- **COVID-19 Data Visualization**: An analysis of COVID-19 data to track virus spread patterns and impacts. This project uses Python libraries like Pandas and Matplotlib for data manipulation and visualization.
-- **Stock Market Prediction**: Leveraging machine learning models to predict stock prices. This project involves time series analysis and forecasting techniques in Python.
+<div align="center">
+  <h2 align="center">💻 Technologies I Love 💻</h2>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+</div>
+<hr/>
 
-## 🐍 Python Projects
-I love automating tasks and building useful applications using Python. Here are a couple of highlights:
+<h2 align="center">🔥 Projects & Contributions 🔥</h2>
+<div> 
+💡 <b>Data Analysis Projects:</b> Showcase your best data analysis projects here with links.
+ 
+💡 <b>Python Projects:</b> Highlight your top Python projects, emphasizing web development and predictive models.
+ 
+💡 <b>Contributions:</b> Mention any significant contributions to open-source projects or collaborations.
+</div>
 
-- **Web Scraper**: A Python script that automates the process of extracting data from websites using BeautifulSoup and requests.
-- **Automation Bot**: A Python bot that automates repetitive tasks and streamlines workflows, improving efficiency.
+<hr>
 
-## 🛠 Skills
-- **Languages**: Python, SQL, JavaScript
-- **Tools**: Jupyter Notebook, Git, VS Code
-- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, Flask
+<div align="center">
+  <h2 align="center">📫 How to Reach Me 📫</h2>
+  <a href="https://www.linkedin.com/in/rishabh-sharma-9947/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rishabh.sharma9947@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-## 📬 How to Reach Me
-- **LinkedIn**: [Insert your LinkedIn URL here]
-- **Email**: [Insert your email here]
+<hr>
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh-9947&show_icons=true&theme=radical)
+<div align="center">
+  <h2 align="center">🎵 Currently Vibing To 🎵</h2>
+  <!-- Replace 'uid' with your Spotify username -->
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yourSpotifyUsername&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yourSpotifyUsername&redirect=true)
+</div>
 
-Thank you for visiting my profile. Let's connect and collaborate on exciting projects!
+<hr>
 
+<div align="center">
+  <h2 align="center">💭 My Code Cycle 💭</h2>
+  <img src="https://raw.githubusercontent.com/Rishabh-9947/Rishabh-9947/main/code_cycle.gif" width="60%" alt="Code Cycle"/>
+</div>
