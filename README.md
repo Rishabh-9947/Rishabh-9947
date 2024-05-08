@@ -62,7 +62,20 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Grocery-Store-Application&theme=nord&hide_border=true" alt="GUI Alarm Clock Project" />
       </a>
     </div>
-   
+<p align="Right">
+  🔮 Predictive-Modeling<br>
+  ⏰ GUI-Alarm-Clock<br>
+  🌐 Responsive-Portfolio-Website<br>
+  🎮 Tic-Tac-Toe<br>
+  🔢 Guess-The-Number<br>
+  🐍 Snake-Game<br>
+  🎲 Dice-Game<br>
+  🔍 Search-Engine<br>
+  📝 To-Do-List<br>
+  🌡️ Weather-App<br>
+  🎨 Color-Guessing-Game<br>
+  📅 Calendar<br>
+</p>
 ## 🤝 Let's Connect
 
 <p align="center">
