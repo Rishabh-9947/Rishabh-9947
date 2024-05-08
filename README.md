@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
+<h2 align="center">Hi, I'm Rishabh Sharma, a full-stack software developer with a passion for crafting innovative solutions. My expertise spans Python development, data analysis, and user experience design. Currently, I'm focused on enhancing my data structures skills and exploring the exciting realm of machine learning through a personal project. I'm excited to collaborate, learn, and share my knowledge with the GitHub community.</h2>
 <h3 align="center">A passionate Python Developer, Web Developer, and Data Analyst</h3>
 
 <p align="center">
