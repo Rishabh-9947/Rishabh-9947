@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pplx-res.cloudinary.com/image/upload/v1715177121/user_uploads/falgizjdq/Designer.jpg" alt="banner" width="1792" height="1024"/>
+  <img src="https://pplx-res.cloudinary.com/image/upload/v1715177423/user_uploads/leitnleks/Designer.jpg" alt="banner" width="1792" height="1024"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
@@ -45,12 +45,18 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Rishabh-9947/Predictive-Modeling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=midnight-purple&hide_border=true" alt="Predictive Modeling Project" />
-  </a>
-  <a href="https://github.com/Rishabh-9947/GUI-Alarm-Clock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=GUI-Alarm-Clock&theme=midnight-purple&hide_border=true" alt="GUI Alarm Clock Project" />
-  </a>
+  🔮 Predictive-Modeling<br>
+  ⏰ GUI-Alarm-Clock<br>
+  🌐 Responsive-Portfolio-Website<br>
+  🎮 Tic-Tac-Toe<br>
+  🔢 Guess-The-Number<br>
+  🐍 Snake-Game<br>
+  🎲 Dice-Game<br>
+  🔍 Search-Engine<br>
+  📝 To-Do-List<br>
+  🌡️ Weather-App<br>
+  🎨 Color-Guessing-Game<br>
+  📅 Calendar<br>
 </p>
 
 ## 🤝 Let's Connect
