@@ -35,11 +35,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-9947&show_icons=true&theme=midnight-teal&hide_border=true" alt="Rishabh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-9947&show_icons=true&theme=midnight-blue&hide_border=true" alt="Rishabh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-9947&theme=midnight-teak&hide_border=true" alt="Rishabh's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-9947&theme=midnight-teal&hide_border=true" alt="Rishabh's Streak Stats" />
 </p>
 
 <p align="center">
