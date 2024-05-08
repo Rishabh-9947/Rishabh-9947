@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pplx-res.cloudinary.com/image/upload/v1715177423/user_uploads/leitnleks/Designer.jpg" alt="banner" width="1792" height="1024"/>
+  <img src="https://pplx-res.cloudinary.com/image/upload/v1715177423/user_uploads/leitnleks/Designer.jpg" alt="banner" width="1280" height="640"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
