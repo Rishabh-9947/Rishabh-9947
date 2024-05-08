@@ -58,7 +58,7 @@
     </div>
     <div class="project-item">
       🛍️ Grocery-Store-Application<br>
-      <a href="https://github.com/Rishabh-9947/GUI-Alarm-Clock">
+      <a href="https://github.com/Rishabh-9947/Grocery-Store-Application ">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Grocery-Store-Application&theme=nord&hide_border=true" alt="GUI Alarm Clock Project" />
       </a>
     </div>
