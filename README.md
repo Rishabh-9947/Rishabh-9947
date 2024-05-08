@@ -35,15 +35,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-9947&show_icons=true&theme=dark&hide_border=true" alt="Rishabh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-9947&show_icons=true&theme=nord&hide_border=true" alt="Rishabh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-9947&theme=dark&hide_border=true" alt="Rishabh's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-9947&theme=nord&hide_border=true" alt="Rishabh's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-9947&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-9947&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🌟 Featured Projects
