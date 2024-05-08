@@ -53,30 +53,16 @@
     <div class="project-item">
       🔮 Predictive-Modeling<br>
       <a href="https://github.com/Rishabh-9947/Predictive-Modeling">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=midnight-purple&hide_border=true" alt="Predictive Modeling Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=midnight-nord&hide_border=true" alt="Predictive Modeling Project" />
       </a>
     </div>
     <div class="project-item">
-      ⏰ GUI-Alarm-Clock<br>
+      🛍️ Grocery-Store-Application<br>
       <a href="https://github.com/Rishabh-9947/GUI-Alarm-Clock">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=GUI-Alarm-Clock&theme=midnight-purple&hide_border=true" alt="GUI Alarm Clock Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Grocery-Store-Application&theme=nord&hide_border=true" alt="GUI Alarm Clock Project" />
       </a>
     </div>
-    <!-- Add more project items here -->
-  </div>
-  <div class="project-column">
-    <div class="project-item">
-      🌐 Responsive-Portfolio-Website<br>
-      <!-- Add project details here -->
-    </div>
-    <div class="project-item">
-      🎮 Tic-Tac-Toe<br>
-      <!-- Add project details here -->
-    </div>
-    <!-- Add more project items here -->
-  </div>
-</div>
-
+   
 ## 🤝 Let's Connect
 
 <p align="center">
