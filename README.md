@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://i.imgur.com/your_banner_image_url" alt="banner" />
+  <img src="https://raw.githubusercontent.com/username/repository/branch/path/to/banner.gif" alt="banner" width="900" height="200"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Rishabh+Sharma;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</h1>
 <h3 align="center">A passionate Python Developer, Web Developer, and Data Analyst</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishabh-9947&label=Profile%20views&color=9D4EDD&style=flat" alt="Profile Views" />
@@ -45,11 +43,25 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Rishabh-9947/Predictive-Modeling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=midnight-purple&hide_border=true" alt="Predictive Modeling Project" />
-  </a>
-  <a href="https://github.com/Rishabh-9947/GUI-Alarm-Clock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=GUI-Alarm-Clock&theme=midnight-purple&hide_border=true" alt="GUI Alarm Clock Project" />
+  🔮 Predictive-Modeling<br>
+  ⏰ GUI-Alarm-Clock<br>
+  🌐 Responsive-Portfolio-Website<br>
+  🎮 Tic-Tac-Toe<br>
+  🔢 Guess-The-Number<br>
+  🐍 Snake-Game<br>
+  🎲 Dice-Game<br>
+  🔍 Search-Engine<br>
+  📝 To-Do-List<br>
+  🌡️ Weather-App<br>
+  🎨 Color-Guessing-Game<br>
+  📅 Calendar<br>
+</p>
+
+## 🎧 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/your_spotify_username">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=novatorem&show_offline=false&background_color=9D4EDD&interchange=true&bar_color=9D4EDD&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
