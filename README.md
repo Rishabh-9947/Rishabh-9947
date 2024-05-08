@@ -1,71 +1,67 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://github.com/chinmayi-ujoshi/chinmayi-ujoshi/blob/main/banner1.gif" width="900" height="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishabh+Sharma;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<!-- Introduction Section -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi🩷+I'm+Rishabh+Sharma;Welcome+to+my+GitHub🩷" alt="Typing SVG" />
-  <h4 align="center">💖 I'm a passionate software developer weaving code into solutions that shape a better tomorrow 💖</h4>
-</h1>
-
-<!-- Stats Section -->
-<hr>
 <div align="center">
-  <h2 align="center">💕 Stats 💕</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhSharma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishabhSharma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Rishabh-Sharma-Git/Rishabh-Sharma-Git/main/assets/coding.gif" width="400" height="250" alt="Coding GIF" />
 </div>
 
-<!-- Skills Section -->
-<hr>
+<h3 align="center">A passionate developer crafting innovative solutions</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh-Sharma-Git&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6EC7&width=435&lines=Brewing+Code+with+Coffee+%F0%9F%8D%BA;Exploring+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" /></a>
+</p>
+
+<h2 align="center">🚀 Tech Stack 🚀</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="C++" />
+</p>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
-  <h2 align="center">💝 Languages-Frameworks-Tools 💝</h2>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <!-- Add more skills badges here -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-Sharma-Git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117&text_color=FF6EC7" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh-Sharma-Git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&text_color=FF6EC7" height="150" alt="Top Languages" />
 </div>
 
-<!-- About Me Section -->
-<hr>
-<h2 align="center">💗 About me 💗</h2>
-<div>
-  💞 I'm Rishabh Sharma, a software developer with a passion for creating innovative solutions.
-  💞 I'm currently pursuing a degree in Computer Science at [Your University].
-  💞 My vision as a developer is to create and contribute to projects that not only solve complex problems but also contribute positively to society!
-  💞 Outside the digital realm, I enjoy [Your Hobbies].
+<h2 align="center">🌇 Sunset Vibes 🌇</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh-Sharma-Git/Rishabh-Sharma-Git/main/assets/sunset.gif" width="500" height="300" alt="Sunset GIF" />
 </div>
 
-<!-- Social Media Links Section -->
+<h2 align="center">💻 Retro Coding 💻</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/rishabhsharma/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/Rishabh-Sharma-Git/Rishabh-Sharma-Git/main/assets/retro-coding.gif" width="500" height="300" alt="Retro Coding GIF" />
+</div>
+
+<h2 align="center">☕ Coffee Break ☕</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh-Sharma-Git/Rishabh-Sharma-Git/main/assets/coffee.gif" width="400" height="250" alt="Coffee GIF" />
+</div>
+
+<h2 align="center">💻 Keyboard Warrior 💻</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh-Sharma-Git/Rishabh-Sharma-Git/main/assets/keyboard.gif" width="500" height="300" alt="Keyboard GIF" />
+</div>
+
+<h2 align="center">📫 Let's Connect! 📫</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabh-sharma-git/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rishabhsharma@email.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:rishabh.sharma.git@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- Add more social media links here -->
-</div>
+  <a href="https://twitter.com/rishabh_sharma_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-<!-- Motivational Quote Section -->
 <div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Believe+you+can+and+you're+halfway+there&type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
-
-<!-- Retro Coffee Keyboard Section -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how"/>
-</div>
-
-<!-- Footer Section -->
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&background=00745003&center=true&vCenter=true&random=false&lines=Currently+Vibing+To+🎧)](https://git.io/typing-svg)
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc141hjlu1kr3ot4wgxe493k9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=a66dc7&interchange=true&bar_color=a66dc7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pc141hjlu1kr3ot4wgxe493k9&redirect=true)
+  <img src="https://raw.githubusercontent.com/Rishabh-Sharma-Git/Rishabh-Sharma-Git/main/assets/motivational-quote.gif" width="600" height="300" alt="Motivational Quote GIF" />
 </div>
