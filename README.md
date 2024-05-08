@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&width=500&lines=+👋,I+am+Rishabh+Sharma!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Rishabh+Sharma;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 <h3 align="center">A passionate Python Developer, Web Developer, and Data Analyst</h3>
 
@@ -17,7 +17,7 @@
 - 🌱 I'm currently learning **Data Structures and Algorithms**
 - 👯 I'm looking to collaborate on **Python and Web Development projects**
 - 💬 Ask me about **Python, Web Development, Data Analysis**
-- 📫 How to reach me: **rishabhsharma1600@gmail.com**
+- 📫 How to reach me: **rishabhsharma9947@gmail.com**
 - ⚡ Fun fact: **I love exploring new technologies and building innovative solutions!**
 
 ## 💻 Languages and Tools
