@@ -25,7 +25,7 @@
 ## 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,git,github,ubuntu,linux,jupyter" alt="Skills" />
 </p>
 
 ## 📊 GitHub Stats
