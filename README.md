@@ -65,7 +65,7 @@
   <a href="https://linkedin.com/in/your_linkedin_username">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your_twitter_username">
+  <a href="https://twitter.com/mrkermit265">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
