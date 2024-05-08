@@ -6,12 +6,12 @@
 <h3 align="center">A passionate Python Developer, Web Developer, and Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=94E0E8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh-9947&label=Profile%20views&color=9D4EDD&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rishabh-9947?label=Followers&color=9D4EDD&style=flat" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Rishabh-9947&label=Profile%20views&color=94E0E8&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rishabh-9947?label=Followers&color=94E0E8&style=flat" alt="Followers" />
 </p>
 
 ## 🚀 About Me
