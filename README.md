@@ -47,7 +47,7 @@
 </p>
 
 ## 🌟 Featured Projects
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="left">🌟 Featured Projects</h2>
 <div class="project-container">
   <div class="project-column">
     <div class="project-item">
