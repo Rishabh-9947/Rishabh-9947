@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **Data Structures and Algorithms**
 - 👯 I'm looking to collaborate on **Python and Web Development projects**
 - 💬 Ask me about **Python, Web Development, Data Analysis**
-- 📫 How to reach me: **rishabhsharma9947@gmail.com**
+- 📫 How to reach me: **rishabhsharma1600@gmail.com**
 - ⚡ Fun fact: **I love coding to lofi beats!**
 
 ## 💻 Languages and Tools
