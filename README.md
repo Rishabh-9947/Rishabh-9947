@@ -46,10 +46,10 @@
 
 <p align="center">
   <a href="https://github.com/Rishabh-9947/data-analysis-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=data-analysis-project&theme=midnight-purple&hide_border=true" alt="Data Analysis Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=data-analysis-project&theme=midnight-purple&hide_border=true" alt="GUI-Alarm-clock" />
   </a>
   <a href="https://github.com/Rishabh-9947/python-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=python-project&theme=midnight-purple&hide_border=true" alt="Python Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=python-project&theme=midnight-purple&hide_border=true" alt="Predictive-Modeling" />
   </a>
 </p>
 
