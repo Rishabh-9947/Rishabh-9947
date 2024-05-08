@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh-9947/Rishabh-9947/main/Unlocking The World of Algorithms.png" alt="banner" width="1280" height="640"/>
+  <img src="https://raw.githubusercontent.com/Rishabh-9947/Rishabh-9947/main/Banner For Github Profile.png" alt="banner" width="1280" height="600"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
