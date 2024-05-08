@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi👋+I'm+Rishabh+Sharma!;Welcome+to+my+GitHub+Profile🌅" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi👋+I'm+Rishabh!;Welcome+to+my+GitHub+Profile🌅" alt="Typing SVG" />
 </h1>
 <h4 align="center">🚀 A Python Developer | Web Developer | Novice Data Analyst and Predictive Model Developer 🚀</h4> 
 <hr>
