@@ -19,13 +19,13 @@
 - 🌱 I'm currently learning **Data Structures and Algorithms**
 - 👯 I'm looking to collaborate on **Python and Web Development projects**
 - 💬 Ask me about **Python, Web Development, Data Analysis**
-- 📫 How to reach me: **youremail@example.com**
-- ⚡ Fun fact: **I love coffee and coding to lofi beats!**
+- 📫 How to reach me: **rishabhsharma9947@gmail.com**
+- ⚡ Fun fact: **I love exploring new technologies and building innovative solutions!**
 
 ## 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap,django,flask,mysql,git,github" alt="Skills" />
 </p>
 
 ## 📊 GitHub Stats
@@ -45,19 +45,11 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Rishabh-9947/data-analysis-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=data-analysis-project&theme=midnight-purple&hide_border=true" alt="GUI-Alarm-clock" />
+  <a href="https://github.com/Rishabh-9947/Predictive-Modeling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=midnight-purple&hide_border=true" alt="Predictive Modeling Project" />
   </a>
-  <a href="https://github.com/Rishabh-9947/python-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=python-project&theme=midnight-purple&hide_border=true" alt="Predictive-Modeling" />
-  </a>
-</p>
-
-## 🎧 Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/your_spotify_username">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=novatorem&show_offline=false&background_color=9D4EDD&interchange=true&bar_color=9D4EDD&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://github.com/Rishabh-9947/GUI-Alarm-Clock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=GUI-Alarm-Clock&theme=midnight-purple&hide_border=true" alt="GUI Alarm Clock Project" />
   </a>
 </p>
 
