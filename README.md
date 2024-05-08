@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh-9947/Rishabh-9947/main/coding_night.gif" alt="Coding GIF" width="50%" height="300"/>
+  <img src="https://raw.githubusercontent.com/Rishabh-9947/Rishabh-9947/main/coding_night.gif" alt="Coding GIF" width="75%" height="450"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
