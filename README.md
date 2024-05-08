@@ -53,7 +53,7 @@
     <div class="project-item">
       🔮 Predictive-Modeling<br>
       <a href="https://github.com/Rishabh-9947/Predictive-Modeling">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=midnight-nord&hide_border=true" alt="Predictive Modeling Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=nord&hide_border=true" alt="Predictive Modeling Project" />
       </a>
     </div>
     <div class="project-item">
