@@ -28,6 +28,10 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,git,github,ubuntu,linux,jupyter" alt="Skills" />
 </p>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@rishabhsha62649/30-nites-of-code)  
+  ![@rishabhsha62649 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rishabhsha62649)
+  
 ## 📊 GitHub Stats
 
 <p align="center">
