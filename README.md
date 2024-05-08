@@ -47,21 +47,35 @@
 </p>
 
 ## 🌟 Featured Projects
-
-<p align="center">
-  🔮 Predictive-Modeling<br>
-  ⏰ GUI-Alarm-Clock<br>
-  🌐 Responsive-Portfolio-Website<br>
-  🎮 Tic-Tac-Toe<br>
-  🔢 Guess-The-Number<br>
-  🐍 Snake-Game<br>
-  🎲 Dice-Game<br>
-  🔍 Search-Engine<br>
-  📝 To-Do-List<br>
-  🌡️ Weather-App<br>
-  🎨 Color-Guessing-Game<br>
-  📅 Calendar<br>
-</p>
+<h2 align="center">🌟 Featured Projects</h2>
+<div class="project-container">
+  <div class="project-column">
+    <div class="project-item">
+      🔮 Predictive-Modeling<br>
+      <a href="https://github.com/Rishabh-9947/Predictive-Modeling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=midnight-purple&hide_border=true" alt="Predictive Modeling Project" />
+      </a>
+    </div>
+    <div class="project-item">
+      ⏰ GUI-Alarm-Clock<br>
+      <a href="https://github.com/Rishabh-9947/GUI-Alarm-Clock">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=GUI-Alarm-Clock&theme=midnight-purple&hide_border=true" alt="GUI Alarm Clock Project" />
+      </a>
+    </div>
+    <!-- Add more project items here -->
+  </div>
+  <div class="project-column">
+    <div class="project-item">
+      🌐 Responsive-Portfolio-Website<br>
+      <!-- Add project details here -->
+    </div>
+    <div class="project-item">
+      🎮 Tic-Tac-Toe<br>
+      <!-- Add project details here -->
+    </div>
+    <!-- Add more project items here -->
+  </div>
+</div>
 
 ## 🤝 Let's Connect
 
