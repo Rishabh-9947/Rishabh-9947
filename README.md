@@ -1,62 +1,73 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Rishabh-9947/Rishabh-9947/main/banner.gif" width="900" height="200"/>
+  <img src="https://i.imgur.com/your_banner_image_url" alt="banner" />
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi👋+I'm+Rishabh!;Welcome+to+my+GitHub+Profile🌅" alt="Typing SVG" />
-</h1>
-<h4 align="center">🚀 A Python Developer | Web Developer | Novice Data Analyst and Predictive Model Developer 🚀</h4> 
-<hr>
+<h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
+<h3 align="center">A passionate Python Developer, Web Developer, and Data Analyst</h3>
 
-<div align="center">
-<h2 align="center">📊 My GitHub Stats 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-9947&theme=synthwave&show_icons=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh-9947&theme=synthwave&layout=compact" height="150" alt="languages graph"  />
-</div>
-<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+solving+problems;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <h2 align="center">💻 Technologies I Love 💻</h2>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-</div>
-<hr/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh-9947&label=Profile%20views&color=9D4EDD&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rishabh-9947?label=Followers&color=9D4EDD&style=flat" alt="Followers" />
+</p>
 
-<h2 align="center">🔥 Projects & Contributions 🔥</h2>
-<div> 
-💡 <b>Data Analysis Projects:</b> Showcase your best data analysis projects here with links.
- 
-💡 <b>Python Projects:</b> Highlight your top Python projects, emphasizing web development and predictive models.
- 
-💡 <b>Contributions:</b> Mention any significant contributions to open-source projects or collaborations.
-</div>
+## 🚀 About Me
 
-<hr>
+- 🌱 I'm currently learning **Data Structures and Algorithms**
+- 👯 I'm looking to collaborate on **Python and Web Development projects**
+- 💬 Ask me about **Python, Web Development, Data Analysis**
+- 📫 How to reach me: **youremail@example.com**
+- ⚡ Fun fact: **I love coffee and coding to lofi beats!**
 
-<div align="center">
-  <h2 align="center">📫 How to Reach Me 📫</h2>
-  <a href="https://www.linkedin.com/in/rishabh-sharma-9947/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+## 💻 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,mysql,git,github" alt="Skills" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-9947&show_icons=true&theme=midnight-purple&hide_border=true" alt="Rishabh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-9947&theme=midnight-purple&hide_border=true" alt="Rishabh's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-9947&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Rishabh-9947/data-analysis-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=data-analysis-project&theme=midnight-purple&hide_border=true" alt="Data Analysis Project" />
   </a>
-  <a href="mailto:rishabh.sharma9947@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://github.com/Rishabh-9947/python-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=python-project&theme=midnight-purple&hide_border=true" alt="Python Project" />
   </a>
-</div>
+</p>
 
-<hr>
+## 🎧 Now Playing
 
-<div align="center">
-  <h2 align="center">🎵 Currently Vibing To 🎵</h2>
-  <!-- Replace 'uid' with your Spotify username -->
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yourSpotifyUsername&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yourSpotifyUsername&redirect=true)
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/user/your_spotify_username">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=novatorem&show_offline=false&background_color=9D4EDD&interchange=true&bar_color=9D4EDD&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
-<hr>
+## 🤝 Let's Connect
 
-<div align="center">
-  <h2 align="center">💭 My Code Cycle 💭</h2>
-  <img src="https://raw.githubusercontent.com/Rishabh-9947/Rishabh-9947/main/code_cycle.gif" width="60%" alt="Code Cycle"/>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/your_linkedin_username">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your_twitter_username">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+</p>
