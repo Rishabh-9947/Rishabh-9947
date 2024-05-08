@@ -63,6 +63,89 @@
       </a>
     </div>
 
+## 🔥 More Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+          <br>
+          <sub><b>Responsive Portfolio Website</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+          <br>
+          <sub><b>Tic-Tac-Toe</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Guess-The-Number</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Snake Game</b></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+          <br>
+          <sub><b>Dice Game</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+          <br>
+          <sub><b>Search Engine</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+          <br>
+          <sub><b>To-Do List</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+          <br>
+          <sub><b>Weather App</b></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+          <br>
+          <sub><b>Color Guessing Game</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+          <br>
+          <sub><b>Calendar</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🤝 Let's Connect
 
 <p align="center">
