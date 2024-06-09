@@ -23,6 +23,11 @@ Hi, I'm Rishabh Sharma, a full-stack software developer with a passion for craft
 - 📫 How to reach me: **rishabhsharma1600@gmail.com**
 - ⚡ Fun fact: **I love coding to lofi beats!**
 
+## 🏆 Achievements
+- 🎓 [Certification Name](#)
+- 🏅 [Award Name](#)
+- 🌟 [Significant Contribution to Open-Source](#)
+
 ## 💻 Languages and Tools
 
 <p align="center">
@@ -30,9 +35,9 @@ Hi, I'm Rishabh Sharma, a full-stack software developer with a passion for craft
 </p>
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@rishabhsha62649/30-nites-of-code)  
-  ![@rishabhsha62649 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rishabhsha62649)
-  
+[Check out my progress!](https://www.codedex.io/@rishabhsha62649/30-nites-of-code)  
+![@rishabhsha62649 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rishabhsha62649)
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -63,9 +68,97 @@ Hi, I'm Rishabh Sharma, a full-stack software developer with a passion for craft
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Grocery-Store-Application&theme=nord&hide_border=true" alt="Grocery-Store-Application" />
       </a>
     </div>
+  </div>
+</div>
 
 ## 🔥 More Projects
-<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/Rishabh-9947/Number-to-Words-Converter"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Number to Words Converter</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rishabh-9947/GUI-Alarm-Clock"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>GUI Alarm Clock</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rishabh-9947/Customer-Churn-Prediction"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Customer Churn Prediction</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rishabh-9947/Binary-Search-Alogorithm"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Binary Search Algorithm</b></sub> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/Rishabh-9947/Website-Blocker"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Website Blocker</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rishabh-9947/GIF-Creator"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>GIF Creator</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rishabh-9947/Snake-Game"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Snake Game</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rishabh-9947/Image-to-Sound"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Image to Sound</b></sub> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/Rishabh-9947/Google_Image_Downloader"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Google Image Downloader</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rishabh-9947/Dice-Rolling-Simulator"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Dice Rolling Simulator</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rishabh-9947/Contact-List"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /> <br> <sub><b>Contact List</b></sub> </a> </td> </tr> </table> </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Number-to-Words-Converter">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Number to Words Converter</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/GUI-Alarm-Clock">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>GUI Alarm Clock</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Customer-Churn-Prediction">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Customer Churn Prediction</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Binary-Search-Alogorithm">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Binary Search Algorithm</b></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Website-Blocker">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Website Blocker</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/GIF-Creator">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>GIF Creator</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Snake-Game">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Snake Game</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Image-to-Sound">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Image to Sound</b></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Google_Image_Downloader">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Google Image Downloader</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Dice-Rolling-Simulator">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Dice Rolling Simulator</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishabh-9947/Contact-List">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+          <br>
+          <sub><b>Contact List</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🤝 Let's Connect
 
