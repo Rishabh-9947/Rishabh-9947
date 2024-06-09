@@ -40,31 +40,25 @@ Hi, I'm Rishabh Sharma, a full-stack software developer with a passion for craft
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-9947&show_icons=true&theme=nord&hide_border=true" alt="Rishabh's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-9947&theme=nord&hide_border=true" alt="Rishabh's Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-9947&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
 ## 🌟 Featured Projects
 <h2 align="center">🌟 Featured Projects</h2>
-<div class="project-container">
-  <div class="project-column">
-    <div class="project-item">
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <div>
       🔮 Predictive-Modeling<br>
       <a href="https://github.com/Rishabh-9947/Predictive-Modeling">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Predictive-Modeling&theme=nord&hide_border=true" alt="Predictive Modeling Project" />
       </a>
     </div>
-    <div class="project-item">
+    <div>
       🛍️ Grocery-Store-Application<br>
-      <a href="https://github.com/Rishabh-9947/Grocery-Store-Application ">
+      <a href="https://github.com/Rishabh-9947/Grocery-Store-Application">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-9947&repo=Grocery-Store-Application&theme=nord&hide_border=true" alt="Grocery-Store-Application" />
       </a>
     </div>
