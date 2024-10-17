@@ -23,11 +23,6 @@ Hi, I'm Rishabh Sharma, a full-stack software developer with a passion for craft
 - 📫 How to reach me: **rishabhsharma1600@gmail.com**
 - ⚡ Fun fact: **I love coding to lofi beats!**
 
-## 🏆 Achievements
-- 🎓 [Certification Name](#)
-- 🏅 [Award Name](#)
-- 🌟 [Significant Contribution to Open-Source](#)
-
 ## 💻 Languages and Tools
 
 <p align="center">
